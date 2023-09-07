@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 
 
 public class Main {
-    public static final String REQUIREMEENTS = "Логин/пароль должен содержать только латинские буквы, цифры и подчеркивания";
+    public static final String REQUIREMEENTS = "Логин/пaроль должен содержать только латинские буквы, цифры и подчеркивания";
 
 
     public static void main(String[] args) {
